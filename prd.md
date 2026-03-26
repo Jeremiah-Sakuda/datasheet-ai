@@ -357,7 +357,6 @@ def describe_table(table_name: str, db_path: str) -> list[dict]:
 ec530-nlq-engine/
 ├── README.md
 ├── requirements.txt
-├── .env.example              # Template for API keys (never commit .env)
 ├── .gitignore
 ├── .github/
 │   └── workflows/
